@@ -1,4 +1,4 @@
-Tosca Defect Helper
+# Tosca Defect Helper
 ===================
 This AddOn for Tricentis Tosca is intended to enrich the defect management in Tosca.
 It collects information from failed logs like debug information and screenshots and 

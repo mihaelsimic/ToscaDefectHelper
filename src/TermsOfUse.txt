@@ -12,5 +12,3 @@ Tricentis GmbH - Legal Department
 Leonard-Bernstein-Strasse 10
 1220 Vienna
 AUSTRIA
-
-email: office@tricentis.com
