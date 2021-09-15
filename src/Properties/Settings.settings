@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Tricentis.Goodies.Integration.ToscaDefectHelper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OpenDefectCommand" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExternalDefectIdFieldName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ID</Value>
+    </Setting>
+    <Setting Name="FailureDetailsFieldName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FailureDetails</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
